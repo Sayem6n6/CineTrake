@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="itcn-0" tvg-name="Zee Bangla Sonar" tvg-logo="https://itcnbd.live//images/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="Bangla",Zee Bangla Sonar
+https://s1.itcnbd.live/zee-bangla-ss/index.m3u8
+#EXTINF:-1 tvg-id="itcn-1" tvg-name="FIFA World Cup" tvg-logo="https://itcnbd.live//images/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="Bangla",FIFA World Cup
+https://s1.itcnbd.live/united-sports-2/index.m3u8
+#EXTINF:-1 tvg-id="itcn-2" tvg-name="T TV Sports HD" tvg-logo="https://itcnbd.live//images/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="Bangla",T TV Sports HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
+#EXTINF:-1 tvg-id="itcn-3" tvg-name="United Sports 1" tvg-logo="https://itcnbd.live//images/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="Bangla",United Sports 1
+https://s2.itcnbd.live/and-flix-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-4" tvg-name="FIFA World Cup2" tvg-logo="https://itcnbd.live//images/95357b2f224dabfec27bf87dffb952b2.png" group-title="Bangla",FIFA World Cup2
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="itcn-5" tvg-name="Channel i" tvg-logo="https://itcnbd.live/images/348dfac3-c1e0-485d-a72b-3d282c9e2c73.webp" group-title="Bangla",Channel i
+https://server.itcnbd.live/stream/channel_i.m3u8
+#EXTINF:-1 tvg-id="itcn-6" tvg-name="GTV" tvg-logo="https://itcnbd.live/images/GTV1745042853.png" group-title="Bangla",GTV
+https://s2.itcnbd.live/gtv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-7" tvg-name="INDEPENDENT TV" tvg-logo="https://itcnbd.live/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
+https://s2.itcnbd.live/independent-tv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-8" tvg-name="JALSHA MOVIES HD" tvg-logo="https://itcnbd.live/images/JALSHA MOVIES HD1745034005.png" group-title="Bangla",JALSHA MOVIES HD
+https://s2.itcnbd.live/jalsha-movies-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-9" tvg-name="STAR JALSHA HD" tvg-logo="https://itcnbd.live/images/STAR JALSHA HD1745033819.png" group-title="Bangla",STAR JALSHA HD
+https://s2.itcnbd.live/star-jalsha-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-10" tvg-name="SUN BANGLA HD" tvg-logo="https://itcnbd.live/images/SUN BANGLA HD1745033791.png" group-title="Bangla",SUN BANGLA HD
+https://s2.itcnbd.live/sun-bangla-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-11" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://itcnbd.live/images/zeebanglacinema.png" group-title="Bangla",ZEE BANGLA CINEMA
+https://s2.itcnbd.live/zee-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-id="itcn-12" tvg-name="T Sports" tvg-logo="https://itcnbd.live//images/95357b2f224dabfec27bf87dffb952b2.png" group-title="Bangla",T Sports
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="itcn-13" tvg-name="T Sports" tvg-logo="https://itcnbd.live//images/95357b2f224dabfec27bf87dffb952b2.png" group-title="Bangla",T Sports
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="itcn-14" tvg-name="Peace TV" tvg-logo="https://itcnbd.live/images/Peace_Tv.png" group-title="Bangla",Peace TV
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="itcn-15" tvg-name="Islamic TV" tvg-logo="https://itcnbd.live/images/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.webp" group-title="Bangla",Islamic TV
+https://server.itcnbd.live/stream/islamic_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-16" tvg-name="Independent TV" tvg-logo="https://itcnbd.live/images/b872b8f5-cb6b-45a1-a1cd-7609df51d614.webp" group-title="Bangla",Independent TV
+https://server.itcnbd.live/stream/independent_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-17" tvg-name="SONY AAT" tvg-logo="https://itcnbd.live//images/SONY AAT1745041124.jpg" group-title="Bangla",SONY AAT
+https://s2.itcnbd.live/sony-aat/index.m3u8
+#EXTINF:-1 tvg-id="itcn-18" tvg-name="Desh TV" tvg-logo="https://itcnbd.live/images/845f1e3f-987a-47cc-a48d-ee12d8f4d419.webp" group-title="Bangla",Desh TV
+https://server.itcnbd.live/stream/desh_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-19" tvg-name="Jamuna TV" tvg-logo="https://itcnbd.live/images/36f380e0-6c71-4b27-a73b-2afb3ce7e982.webp" group-title="Bangla",Jamuna TV
+https://server.itcnbd.live/stream/jamuna_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-20" tvg-name="Nexus TV" tvg-logo="https://itcnbd.live/images/419869ac-8ddf-4909-86c1-b69f0a3adf13.webp" group-title="Bangla",Nexus TV
+https://server.itcnbd.live/stream/nexus_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-21" tvg-name="Somoy TV" tvg-logo="https://itcnbd.live/images/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Bangla",Somoy TV
+https://server.itcnbd.live/stream/somoy_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-22" tvg-name="Channel S" tvg-logo="https://itcnbd.live/images/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
+https://server.itcnbd.live/stream/channel_s.m3u8
+#EXTINF:-1 tvg-id="itcn-23" tvg-name="NAGORIK" tvg-logo="https://itcnbd.live/images/NAGORIK1745042776.jpg" group-title="Bangla",NAGORIK
+https://s2.itcnbd.live/nagorik/index.m3u8
+#EXTINF:-1 tvg-id="itcn-24" tvg-name="Rajdhani TV" tvg-logo="https://itcnbd.live/images/d032f456-c7e8-4fd4-928b-ea5359960ed7.webp" group-title="Bangla",Rajdhani TV
+https://server.itcnbd.live/stream/rajdhani_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-25" tvg-name="ATN NEWS" tvg-logo="https://itcnbd.live/images/ATN NEWS1745045113.png" group-title="Bangla",ATN NEWS
+https://s2.itcnbd.live/atn-news/index.m3u8
+#EXTINF:-1 tvg-id="itcn-26" tvg-name="CHANNEL 24" tvg-logo="https://itcnbd.live/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24
+https://s2.itcnbd.live/channel-24/index.m3u8
+#EXTINF:-1 tvg-id="itcn-27" tvg-name="CHANNEL I" tvg-logo="https://itcnbd.live/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
+https://s2.itcnbd.live/channel-i/index.m3u8
+#EXTINF:-1 tvg-id="itcn-28" tvg-name="JAMUNA TV" tvg-logo="https://itcnbd.live/images/JAMUNA TV1745044052.png" group-title="Bangla",JAMUNA TV
+https://s2.itcnbd.live/jamuna-tv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-29" tvg-name="MAASRANGA HD" tvg-logo="https://itcnbd.live/images/MAASRANGA HD1745044117.png" group-title="Bangla",MAASRANGA HD
+https://s2.itcnbd.live/maasranga-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-30" tvg-name="SOMOY TV" tvg-logo="https://itcnbd.live/images/cf5ac214c49ace9c04ac1ed33cc4b8a1.png" group-title="Bangla",SOMOY TV
+https://s2.itcnbd.live/somoy-tv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-31" tvg-name="ATN News" tvg-logo="https://itcnbd.live/images/af9773c7-7971-41a2-9b78-121fcb240c48.webp" group-title="Bangla",ATN News
+https://server.itcnbd.live/stream/atn_news.m3u8
+#EXTINF:-1 tvg-id="itcn-32" tvg-name="ATN Bangla" tvg-logo="https://itcnbd.live/images/0d1e571c-ebb2-4277-9814-760a4f1603a6.webp" group-title="Bangla",ATN Bangla
+https://server.itcnbd.live/stream/atn_bangla.m3u8
+#EXTINF:-1 tvg-id="itcn-33" tvg-name="ATN BANGLA" tvg-logo="https://itcnbd.live/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
+https://s2.itcnbd.live/atn-bangla/index.m3u8
+#EXTINF:-1 tvg-id="itcn-34" tvg-name="T Sports" tvg-logo="https://itcnbd.live//images/95357b2f224dabfec27bf87dffb952b2.png" group-title="Bangla",T Sports
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="itcn-35" tvg-name="Movie Bangla" tvg-logo="https://itcnbd.live/images/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.webp" group-title="Bangla",Movie Bangla
+https://server.itcnbd.live/stream/movie_bangla.m3u8
+#EXTINF:-1 tvg-id="itcn-36" tvg-name="Ananda TV" tvg-logo="https://itcnbd.live/images/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla",Ananda TV
+https://server.itcnbd.live/stream/anandatv.m3u8
+#EXTINF:-1 tvg-id="itcn-37" tvg-name="Bangla TV" tvg-logo="https://itcnbd.live/images/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla",Bangla TV
+https://server.itcnbd.live/stream/bangla_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-38" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://itcnbd.live/images/COLORS BANGLA CINEMA1745041486.png" group-title="Bangla",COLORS BANGLA CINEMA
+https://s2.itcnbd.live/colors-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-id="itcn-39" tvg-name="COLORS BANGLA HD" tvg-logo="https://itcnbd.live/images/COLORS BANGLA HD1745033576.jpg" group-title="Bangla",COLORS BANGLA HD
+https://s2.itcnbd.live/colors-bangla-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-40" tvg-name="ENTERR 10" tvg-logo="https://itcnbd.live/images/ENTERR 101745044330.png" group-title="Bangla",ENTERR 10
+https://s2.itcnbd.live/enterr-10/index.m3u8
+#EXTINF:-1 tvg-id="itcn-41" tvg-name="Ekhon TV" tvg-logo="https://itcnbd.live/images/159af631-796d-4342-a2a7-c272f32bcd32.webp" group-title="Bangla",Ekhon TV
+https://server.itcnbd.live/stream/ekhon_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-42" tvg-name="Mohona TV" tvg-logo="https://itcnbd.live/images/fecea361-8b60-4aeb-a530-6e27eee8178a.webp" group-title="Bangla",Mohona TV
+https://server.itcnbd.live/stream/mohona_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-43" tvg-name="ZEE BANGLA HD" tvg-logo="https://itcnbd.live/images/ZEE BANGLA HD1745033633.png" group-title="Bangla",ZEE BANGLA HD
+https://s2.itcnbd.live/zee-bangla-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-44" tvg-name="Bijoy TV" tvg-logo="https://itcnbd.live/images/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla",Bijoy TV
+https://server.itcnbd.live/stream/bijoytv.m3u8
+#EXTINF:-1 tvg-id="itcn-45" tvg-name="Asian TV" tvg-logo="https://itcnbd.live/images/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="Bangla",Asian TV
+https://server.itcnbd.live/stream/asian_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-46" tvg-name="T SPORTS" tvg-logo="https://itcnbd.live//images/T SPORTS1744972630.jpg" group-title="Bangla",T SPORTS
+https://s2.itcnbd.live/t-sports/index.m3u8
+#EXTINF:-1 tvg-id="itcn-47" tvg-name="ZEE CAFE HD" tvg-logo="https://itcnbd.live/images/ZEE CAFE HD1745040102.png" group-title="English",ZEE CAFE HD
+https://s2.itcnbd.live/zee-cafe-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-48" tvg-name="AND FLIX HD" tvg-logo="https://itcnbd.live/images/AND FLIX HD1745040018.png" group-title="English",AND FLIX HD
+https://s2.itcnbd.live/and-flix-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-49" tvg-name="AXN HD" tvg-logo="https://itcnbd.live/images/AXN HD1745045171.png" group-title="English",AXN HD
+https://s2.itcnbd.live/axn-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-50" tvg-name="DISCOVERY HD" tvg-logo="https://itcnbd.live/images/discovery hd.png" group-title="English",DISCOVERY HD
+https://s2.itcnbd.live/discovery-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-51" tvg-name="HISTORY TV HD" tvg-logo="https://itcnbd.live/images/HISTORY TV HD1745033679.png" group-title="English",HISTORY TV HD
+https://s2.itcnbd.live/history-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-52" tvg-name="HITZ MUSIC" tvg-logo="https://itcnbd.live/images/HITZ MUSIC1745043478.png" group-title="English",HITZ MUSIC
+https://s2.itcnbd.live/hitz-music/index.m3u8
+#EXTINF:-1 tvg-id="itcn-53" tvg-name="LOTUS TV" tvg-logo="https://itcnbd.live/images/LOTUS TV1745044960.png" group-title="English",LOTUS TV
+https://s2.itcnbd.live/lotus-tv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-54" tvg-name="LOVE NATURE" tvg-logo="https://itcnbd.live/images/LOVE NATURE1745043370.png" group-title="English",LOVE NATURE
+https://s2.itcnbd.live/love-nature/index.m3u8
+#EXTINF:-1 tvg-id="itcn-55" tvg-name="MN PLUS" tvg-logo="https://itcnbd.live/images/MN PLUS1745040057.png" group-title="English",MN PLUS
+https://s2.itcnbd.live/mn-plus/index.m3u8
+#EXTINF:-1 tvg-id="itcn-56" tvg-name="MNX HD" tvg-logo="https://itcnbd.live/images/MNX HD1745039955.png" group-title="English",MNX HD
+https://s2.itcnbd.live/mnx-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-57" tvg-name="MOVIES NOW HD" tvg-logo="https://itcnbd.live/images/MOVIES NOW HD1745040368.png" group-title="English",MOVIES NOW HD
+https://s2.itcnbd.live/movies-now-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-58" tvg-name="NATGEO HD" tvg-logo="https://itcnbd.live/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
+https://s2.itcnbd.live/natgeo-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-59" tvg-name="NATGEO WILD HD" tvg-logo="https://itcnbd.live/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD HD
+https://s2.itcnbd.live/natgeo-wild-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-60" tvg-name="ROMEDY NOW" tvg-logo="https://itcnbd.live/images/ROMEDY NOW1745039988.png" group-title="English",ROMEDY NOW
+https://s2.itcnbd.live/romedy-now/index.m3u8
+#EXTINF:-1 tvg-id="itcn-61" tvg-name="SONY PIX HD" tvg-logo="https://itcnbd.live/images/SONY PIX HD1745039925.png" group-title="English",SONY PIX HD
+https://s2.itcnbd.live/sony-pix-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-62" tvg-name="STAR MOVIES HD" tvg-logo="https://itcnbd.live/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
+https://s2.itcnbd.live/star-movies-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-63" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://itcnbd.live/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
+https://s2.itcnbd.live/star-movies-select-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-64" tvg-name="TLC HD" tvg-logo="https://itcnbd.live/images/TLC HD1745033484.png" group-title="English",TLC HD
+https://s2.itcnbd.live/tlc-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-65" tvg-name="TRAVEL XP" tvg-logo="https://itcnbd.live/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
+https://s2.itcnbd.live/travel-xp/index.m3u8
+#EXTINF:-1 tvg-id="itcn-66" tvg-name="SONY BBC EARTH HD" tvg-logo="https://itcnbd.live/images/SONY BBC EARTH HD1745031522.png" group-title="English",SONY BBC EARTH HD
+https://s2.itcnbd.live/sony-bbc-earth-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-67" tvg-name="ALJAZEETA HD" tvg-logo="https://itcnbd.live/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
+https://s2.itcnbd.live/aljazeeta-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-68" tvg-name="BBC EARTH HD" tvg-logo="https://itcnbd.live/images/BBC EARTH HD1745150455.png" group-title="English",BBC EARTH HD
+https://s2.itcnbd.live/bbc-earth-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-69" tvg-name="BBC NEWS" tvg-logo="https://itcnbd.live/images/BBC NEWS1745042816.png" group-title="English",BBC NEWS
+https://s2.itcnbd.live/bbc-news/index.m3u8
+#EXTINF:-1 tvg-id="itcn-70" tvg-name="HBO HD" tvg-logo="https://itcnbd.live/images/HBO HD1745045202.png" group-title="English",HBO HD
+https://s2.itcnbd.live/hbo-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-71" tvg-name="AND PRIVE HD" tvg-logo="https://itcnbd.live/images/AND PRIVE HD1745040451.png" group-title="English",AND PRIVE HD
+https://s2.itcnbd.live/and-prive-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-72" tvg-name="AND XPLORE" tvg-logo="https://itcnbd.live/images/AND XPLORE1745043080.png" group-title="English",AND XPLORE
+https://s2.itcnbd.live/and-xplore/index.m3u8
+#EXTINF:-1 tvg-id="itcn-73" tvg-name="ANIMAL PLANET HD" tvg-logo="https://itcnbd.live/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET HD
+https://s2.itcnbd.live/animal-planet-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-74" tvg-name="Deepto TV HD" tvg-logo="https://itcnbd.live/images/1742713000749.png" group-title="Entertainment",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-75" tvg-name="SATV HD" tvg-logo="https://itcnbd.live/images/1770187361105.png" group-title="Entertainment",SATV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-76" tvg-name="Channel 9 HD" tvg-logo="https://itcnbd.live/images/1770188008067.png" group-title="Entertainment",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-77" tvg-name="Ekhon TV" tvg-logo="https://itcnbd.live/images/1770189283848.png" group-title="Entertainment",Ekhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-78" tvg-name="SRK TV" tvg-logo="https://itcnbd.live/images/1746005940155.png" group-title="Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-79" tvg-name="Channel I HD" tvg-logo="https://itcnbd.live/images/1740567626692.png" group-title="Entertainment",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-80" tvg-name="NTV" tvg-logo="https://itcnbd.live/images/1735560841094.png" group-title="Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-81" tvg-name="Zee Anmol" tvg-logo="https://itcnbd.live/images/f630a176-73cc-48d7-94cf-69ba0d201b36.webp" group-title="Entertainment",Zee Anmol
+https://server.itcnbd.live/stream/zee_anmol.m3u8
+#EXTINF:-1 tvg-id="itcn-82" tvg-name="Zing" tvg-logo="https://itcnbd.live/images/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.webp" group-title="Entertainment",Zing
+https://server.itcnbd.live/stream/zing_sd.m3u8
+#EXTINF:-1 tvg-id="itcn-83" tvg-name="Hum TV" tvg-logo="https://itcnbd.live/images/mobile_logo_880134001738072763.png" group-title="Entertainment",Hum TV
+https://server.itcnbd.live/stream/hum_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-84" tvg-name="Hum Masala" tvg-logo="https://itcnbd.live/images/mobile_logo_203789001738235600.png" group-title="Entertainment",Hum Masala
+https://server.itcnbd.live/stream/hum_masala.m3u8
+#EXTINF:-1 tvg-id="itcn-85" tvg-name="Hum Sitarey" tvg-logo="https://itcnbd.live/images/mobile_logo_350939001738236112.png" group-title="Entertainment",Hum Sitarey
+https://server.itcnbd.live/stream/hum_sitaray.m3u8
+#EXTINF:-1 tvg-id="itcn-86" tvg-name="Sony Aat VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_496322001666780228.png" group-title="Entertainment",Sony Aat VIP
+https://server.itcnbd.live/stream/sonyaath.m3u8
+#EXTINF:-1 tvg-id="itcn-87" tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_495351001666780441.png" group-title="Entertainment",SONY ENTERTAINMENT TELEVISION HD VIP
+https://server.itcnbd.live/stream/sonyentertainmnt_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-88" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-logo="https://itcnbd.live/images/mobile_logo_149299001666780350.png" group-title="Entertainment",SONY ENTERTAINMENT TELEVISION
+https://server.itcnbd.live/stream/sony_entertainment.m3u8
+#EXTINF:-1 tvg-id="itcn-89" tvg-name="Zee TV HD" tvg-logo="https://itcnbd.live/images/mobile_logo_649814001655891557.png" group-title="Entertainment",Zee TV HD
+https://server.itcnbd.live/stream/zee_tv_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-90" tvg-name="&TV HD" tvg-logo="https://itcnbd.live/images/mobile_logo_974516001655891652.png" group-title="Entertainment",&TV HD
+https://server.itcnbd.live/stream/and_tv_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-91" tvg-name="& Pictures HD" tvg-logo="https://itcnbd.live/images/mobile_logo_000080001675856893.png" group-title="Entertainment",& Pictures HD
+https://server.itcnbd.live/stream/andpicture_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-92" tvg-name="ATN Bangla" tvg-logo="https://itcnbd.live/images/1740553740665.png" group-title="Entertainment",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-93" tvg-name="Bangla Vision" tvg-logo="https://itcnbd.live/images/1735561344354.png" group-title="Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-94" tvg-name="Zee Bangla VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_094417001655891123.png" group-title="Entertainment",Zee Bangla VIP
+https://server.itcnbd.live/stream/zee_bangla.m3u8
+#EXTINF:-1 tvg-id="itcn-95" tvg-name="B4U Music VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_886909001563629905.png" group-title="Entertainment",B4U Music VIP
+https://server.itcnbd.live/stream/b4u_music.m3u8
+#EXTINF:-1 tvg-id="itcn-96" tvg-name="SONY SAB HD VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_688156001666785674.png" group-title="Entertainment",SONY SAB HD VIP
+https://server.itcnbd.live/stream/sonysab_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-97" tvg-name="AND PICTURS HD" tvg-logo="https://itcnbd.live/images/AND PICTURS HD1745031440.png" group-title="Hindi",AND PICTURS HD
+https://s2.itcnbd.live/and-picturs-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-98" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://itcnbd.live/images/COLORS CINEPLEX HD1745033519.png" group-title="Hindi",COLORS CINEPLEX HD
+https://s2.itcnbd.live/colors-cineplex-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-99" tvg-name="COLORS HD" tvg-logo="https://itcnbd.live/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
+https://s2.itcnbd.live/colors-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-100" tvg-name="GEO NEWS HD" tvg-logo="https://itcnbd.live/images/GEO NEWS HD1745044892.png" group-title="Hindi",GEO NEWS HD
+https://s2.itcnbd.live/geo-news-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-101" tvg-name="HUM TV" tvg-logo="https://itcnbd.live/images/HUM TV1745044837.png" group-title="Hindi",HUM TV
+https://s2.itcnbd.live/hum-tv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-102" tvg-name="SONY ENT HD" tvg-logo="https://itcnbd.live/images/SONY ENT HD1745033553.png" group-title="Hindi",SONY ENT HD
+https://s2.itcnbd.live/sony-ent-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-103" tvg-name="SONY MAX HD" tvg-logo="https://itcnbd.live/images/SONY MAX HD1745034069.png" group-title="Hindi",SONY MAX HD
+https://s2.itcnbd.live/sony-max-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-104" tvg-name="STAR GOLD 2 HD" tvg-logo="https://itcnbd.live/images/STAR GOLD 2 HD1745043441.png" group-title="Hindi",STAR GOLD 2 HD
+https://s2.itcnbd.live/star-gold-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-105" tvg-name="STAR GOLD HD" tvg-logo="https://itcnbd.live/images/STAR GOLD HD1745034037.png" group-title="Hindi",STAR GOLD HD
+https://s2.itcnbd.live/star-gold-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-106" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://itcnbd.live/images/STAR GOLD SELECT HD1745043508.png" group-title="Hindi",STAR GOLD SELECT HD
+https://s2.itcnbd.live/star-gold-select-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-107" tvg-name="STAR PLUS HD" tvg-logo="https://itcnbd.live/images/STAR PLUS HD1745038577.png" group-title="Hindi",STAR PLUS HD
+https://s2.itcnbd.live/star-plus-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-108" tvg-name="ZEE CINEMA HD" tvg-logo="https://itcnbd.live/images/ZEE CINEMA HD1745033602.png" group-title="Hindi",ZEE CINEMA HD
+https://s2.itcnbd.live/zee-cinema-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-109" tvg-name="ZEE TV HD" tvg-logo="https://itcnbd.live/images/ZEE TV HD1745033383.png" group-title="Hindi",ZEE TV HD
+https://s2.itcnbd.live/zee-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-110" tvg-name="ZING" tvg-logo="https://itcnbd.live/images/ZING1745042718.png" group-title="Hindi",ZING
+https://s2.itcnbd.live/zing/index.m3u8
+#EXTINF:-1 tvg-id="itcn-111" tvg-name="ZOOM" tvg-logo="https://itcnbd.live/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
+https://s2.itcnbd.live/zoom/index.m3u8
+#EXTINF:-1 tvg-id="itcn-112" tvg-name="STAR BHARAT HD" tvg-logo="https://itcnbd.live/images/STAR BHARAT HD1745045255.png" group-title="Hindi",STAR BHARAT HD
+https://s2.itcnbd.live/star-bharat-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-113" tvg-name="Enter 10 Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj" group-title="Indian",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="itcn-114" tvg-name="Delicious" tvg-logo="https://itcnbd.live/images/1770378370876.png" group-title="Infotainment",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-115" tvg-name="Luxel HD" tvg-logo="https://itcnbd.live/images/1770378560772.png" group-title="Infotainment",Luxel HD
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-116" tvg-name="TLC HD" tvg-logo="https://itcnbd.live/images/mobile_logo_648826001673178929.png" group-title="Infotainment",TLC HD
+https://server.itcnbd.live/stream/tlc_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-117" tvg-name="TLC" tvg-logo="https://itcnbd.live/images/mobile_logo_048875001673178985.png" group-title="Infotainment",TLC
+https://server.itcnbd.live/stream/tlc_sd.m3u8
+#EXTINF:-1 tvg-id="itcn-118" tvg-name="Animal Planet" tvg-logo="https://itcnbd.live/images/mobile_logo_835681001673175607.png" group-title="Infotainment",Animal Planet
+https://server.itcnbd.live/stream/animal_planet_sd.m3u8
+#EXTINF:-1 tvg-id="itcn-119" tvg-name="Animal Planet HD" tvg-logo="https://itcnbd.live/images/mobile_logo_032001001673194753.png" group-title="Infotainment",Animal Planet HD
+https://server.itcnbd.live/stream/animal_planet_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-120" tvg-name="Discovery HD" tvg-logo="https://itcnbd.live/images/mobile_logo_868363001673181438.png" group-title="Infotainment",Discovery HD
+https://server.itcnbd.live/stream/discovery_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-121" tvg-name="Discovery" tvg-logo="https://itcnbd.live/images/mobile_logo_297723001673195119.png" group-title="Infotainment",Discovery
+https://server.itcnbd.live/stream/discovery_sd.m3u8
+#EXTINF:-1 tvg-id="itcn-122" tvg-name="Discovery Science" tvg-logo="https://itcnbd.live/images/mobile_logo_604754001673177502.png" group-title="Infotainment",Discovery Science
+https://server.itcnbd.live/stream/discovery_science.m3u8
+#EXTINF:-1 tvg-id="itcn-123" tvg-name="Investigation Discovery HD" tvg-logo="https://itcnbd.live/images/mobile_logo_154805001673178308.png" group-title="Infotainment",Investigation Discovery HD
+https://server.itcnbd.live/stream/discovary_investigation_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-124" tvg-name="SONY BBC EARTH HD VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_892290001738663264.png" group-title="Infotainment",SONY BBC EARTH HD VIP
+https://server.itcnbd.live/stream/sonybbc_earth_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-125" tvg-name="Discovery Turbo" tvg-logo="https://itcnbd.live/images/mobile_logo_775127001673177876.png" group-title="Infotainment",Discovery Turbo
+https://server.itcnbd.live/stream/discovery_turbo.m3u8
+#EXTINF:-1 tvg-id="itcn-126" tvg-name="MADANI TV HD" tvg-logo="https://itcnbd.live/images/MADANI TV HD1745044303.png" group-title="Islamic",MADANI TV HD
+https://s2.itcnbd.live/madani-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-127" tvg-name="PEACE TV BANGLA" tvg-logo="https://itcnbd.live/images/PEACE TV BANGLA1745044480.png" group-title="Islamic",PEACE TV BANGLA
+https://s2.itcnbd.live/peace-tv-bangla/index.m3u8
+#EXTINF:-1 tvg-id="itcn-128" tvg-name="Funny Junior HD" tvg-logo="https://itcnbd.live/images/1770379573329.png" group-title="Kids",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-129" tvg-name="Lucky Family" tvg-logo="https://itcnbd.live/images/1770381248531.png" group-title="Kids",Lucky Family
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-130" tvg-name="Nikki" tvg-logo="https://itcnbd.live/images/1770378704923.png" group-title="Kids",Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-131" tvg-name="Joy" tvg-logo="https://itcnbd.live/images/1770378874717.png" group-title="Kids",Joy
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-132" tvg-name="Smarty" tvg-logo="https://itcnbd.live/images/1770381107924.png" group-title="Kids",Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-133" tvg-name="Kids Stars" tvg-logo="https://itcnbd.live/images/1770381398090.png" group-title="Kids",Kids Stars
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-134" tvg-name="Cartoon Network HD" tvg-logo="https://itcnbd.live/images/mobile_logo_443429001678950505.png" group-title="Kids",Cartoon Network HD
+https://server.itcnbd.live/stream/cartoon_network_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-135" tvg-name="Cartoon Network" tvg-logo="https://itcnbd.live/images/mobile_logo_320294001679201065.png" group-title="Kids",Cartoon Network
+https://server.itcnbd.live/stream/cartoon_network_sd.m3u8
+#EXTINF:-1 tvg-id="itcn-136" tvg-name="Pogo" tvg-logo="https://itcnbd.live/images/mobile_logo_740957001679201029.png" group-title="Kids",Pogo
+https://server.itcnbd.live/stream/pogo_sd.m3u8
+#EXTINF:-1 tvg-id="itcn-137" tvg-name="Discovery Kids" tvg-logo="https://itcnbd.live/images/mobile_logo_430542001673177743.png" group-title="Kids",Discovery Kids
+https://server.itcnbd.live/stream/discovery_kids.m3u8
+#EXTINF:-1 tvg-id="itcn-138" tvg-name="SONY YAY VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_091186001666784752.png" group-title="Kids",SONY YAY VIP
+https://server.itcnbd.live/stream/sonyyay.m3u8
+#EXTINF:-1 tvg-id="itcn-139" tvg-name="CARTOON NETWORK" tvg-logo="https://itcnbd.live/images/CARTOON NETWORK1745033414.png" group-title="Kids",CARTOON NETWORK
+https://s2.itcnbd.live/cartoon-network/index.m3u8
+#EXTINF:-1 tvg-id="itcn-140" tvg-name="DURANTA TV" tvg-logo="https://itcnbd.live/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
+https://s2.itcnbd.live/duranta-tv/index.m3u8
+#EXTINF:-1 tvg-id="itcn-141" tvg-name="HUNGAMA" tvg-logo="https://itcnbd.live/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+https://s2.itcnbd.live/hungama/index.m3u8
+#EXTINF:-1 tvg-id="itcn-142" tvg-name="NICK" tvg-logo="https://itcnbd.live/images/NICK1745041451.png" group-title="Kids",NICK
+https://s2.itcnbd.live/nick/index.m3u8
+#EXTINF:-1 tvg-id="itcn-143" tvg-name="NICK JR" tvg-logo="https://itcnbd.live/images/NICK JR1745042397.png" group-title="Kids",NICK JR
+https://s2.itcnbd.live/nick-jr/index.m3u8
+#EXTINF:-1 tvg-id="itcn-144" tvg-name="POGO" tvg-logo="https://itcnbd.live/images/POGO1745041515.png" group-title="Kids",POGO
+https://s2.itcnbd.live/pogo/index.m3u8
+#EXTINF:-1 tvg-id="itcn-145" tvg-name="SONIC" tvg-logo="https://itcnbd.live/images/SONIC1745041154.png" group-title="Kids",SONIC
+https://s2.itcnbd.live/sonic/index.m3u8
+#EXTINF:-1 tvg-id="itcn-146" tvg-name="SONY YAY" tvg-logo="https://itcnbd.live/images/SONY YAY1745045046.png" group-title="Kids",SONY YAY
+https://s2.itcnbd.live/sony-yay/index.m3u8
+#EXTINF:-1 tvg-id="itcn-147" tvg-name="SUPER HUNGAMA" tvg-logo="https://itcnbd.live/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
+https://s2.itcnbd.live/super-hungama/index.m3u8
+#EXTINF:-1 tvg-id="itcn-148" tvg-name="BAL BHARAT" tvg-logo="https://itcnbd.live/images/BAL BHARAT1745041576.png" group-title="Kids",BAL BHARAT
+https://s2.itcnbd.live/bal-bharat/index.m3u8
+#EXTINF:-1 tvg-id="itcn-149" tvg-name="BuddyStar HD" tvg-logo="https://itcnbd.live/images/1770379038530.png" group-title="Kids",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-150" tvg-name="Zee Cafe" tvg-logo="https://itcnbd.live/images/3442d493-0c71-44b9-b12f-8e600d5eab91.webp" group-title="Movies",Zee Cafe
+https://server.itcnbd.live/stream/zee_cafe_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-151" tvg-name="Intelligence" tvg-logo="https://itcnbd.live/images/1770380460488.png" group-title="Movies",Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-152" tvg-name="Cineedge HD" tvg-logo="https://itcnbd.live/images/1770347851305.png" group-title="Movies",Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-153" tvg-name="Originals" tvg-logo="https://itcnbd.live/images/1770313122372.png" group-title="Movies",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-154" tvg-name="Superrix HD" tvg-logo="https://itcnbd.live/images/1770348388925.png" group-title="Movies",Superrix HD
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-155" tvg-name="Screem" tvg-logo="https://itcnbd.live/images/1770312098339.png" group-title="Movies",Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-156" tvg-name="Crimes" tvg-logo="https://itcnbd.live/images/1770380126540.png" group-title="Movies",Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-157" tvg-name="True Stories" tvg-logo="https://itcnbd.live/images/1770380306806.png" group-title="Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-158" tvg-name="SONY MAX HD VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_440775001666782769.png" group-title="Movies",SONY MAX HD VIP
+https://server.itcnbd.live/stream/sony_max_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-159" tvg-name="Zee Action" tvg-logo="https://itcnbd.live/images/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.webp" group-title="Movies",Zee Action
+https://server.itcnbd.live/stream/zee_action.m3u8
+#EXTINF:-1 tvg-id="itcn-160" tvg-name="SONY MAX VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_612341001666782969.png" group-title="Movies",SONY MAX VIP
+https://server.itcnbd.live/stream/sony_max.m3u8
+#EXTINF:-1 tvg-id="itcn-161" tvg-name="SONY PIX HD VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_287412001666784602.png" group-title="Movies",SONY PIX HD VIP
+https://server.itcnbd.live/stream/sonypix_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-162" tvg-name="SONY MAX 2 VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_044841001666779831.png" group-title="Movies",SONY MAX 2 VIP
+https://server.itcnbd.live/stream/sonymax_2.m3u8
+#EXTINF:-1 tvg-id="itcn-163" tvg-name="Zee Cinema HD" tvg-logo="https://itcnbd.live/images/mobile_logo_370803001655891689.png" group-title="Movies",Zee Cinema HD
+https://server.itcnbd.live/stream/zee_cinema_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-164" tvg-name="Zee Bangla Cinema" tvg-logo="https://itcnbd.live/images/b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.webp" group-title="Movies",Zee Bangla Cinema
+https://server.itcnbd.live/stream/zee_bangla_cinema.m3u8
+#EXTINF:-1 tvg-id="itcn-165" tvg-name="Zee Bangla Cinema VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_368845001655891378.png" group-title="Movies",Zee Bangla Cinema VIP
+https://server.itcnbd.live/stream/zee_bangla_cinema.m3u8
+#EXTINF:-1 tvg-id="itcn-166" tvg-name="Zee Bollywood" tvg-logo="https://itcnbd.live/images/4818f95a-c64a-490f-b310-a49aec026d71.png" group-title="Movies",Zee Bollywood
+https://server.itcnbd.live/stream/zee_bollywood.m3u8
+#EXTINF:-1 tvg-id="itcn-167" tvg-name="B4U Movies VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_702115001663003759.png" group-title="Movies",B4U Movies VIP
+https://server.itcnbd.live/stream/b4u_movies.m3u8
+#EXTINF:-1 tvg-id="itcn-168" tvg-name="Party Universe" tvg-logo="https://itcnbd.live/images/1770378215384.png" group-title="Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-169" tvg-name="BTV" tvg-logo="https://itcnbd.live/images/1735561595482.png" group-title="News",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-170" tvg-name="Somoy TV" tvg-logo="https://itcnbd.live/images/1735560559088.png" group-title="News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-171" tvg-name="Jamuna TV" tvg-logo="https://itcnbd.live/images/1735560213832.png" group-title="News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-172" tvg-name="Independent TV" tvg-logo="https://itcnbd.live/images/1739964387847.png" group-title="News",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-173" tvg-name="Ekattor HD" tvg-logo="https://itcnbd.live/images/1739963327549.png" group-title="News",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-174" tvg-name="Channel 24 HD" tvg-logo="https://itcnbd.live/images/1735556516924.png" group-title="News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-175" tvg-name="News 24 HD" tvg-logo="https://itcnbd.live/images/1770186895850.png" group-title="News",News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-176" tvg-name="ATN News" tvg-logo="https://itcnbd.live/images/1739962961772.png" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-177" tvg-name="Al Jazeera" tvg-logo="https://itcnbd.live/images/1735547218986.png" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-178" tvg-name="Star News" tvg-logo="https://itcnbd.live/images/1770189826301.png" group-title="News",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-179" tvg-name="ARY News" tvg-logo="https://itcnbd.live/images/1770531824347.png" group-title="News",ARY News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-id="itcn-180" tvg-name="CNN VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_146607001735536058.png" group-title="News",CNN VIP
+https://server.itcnbd.live/stream/cnn.m3u8
+#EXTINF:-1 tvg-id="itcn-181" tvg-name="Ekattor TV" tvg-logo="https://itcnbd.live/images/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="News",Ekattor TV
+https://server.itcnbd.live/stream/ekattor_tv.m3u8
+#EXTINF:-1 tvg-id="itcn-182" tvg-name="T SPORTS" tvg-logo="https://itcnbd.live/images/T SPORTS1744972630.jpg" group-title="Sports",T SPORTS
+https://s2.itcnbd.live/t-sports/index.m3u8
+#EXTINF:-1 tvg-id="itcn-183" tvg-name="Flash Guys HD" tvg-logo="https://itcnbd.live/images/1770378074527.png" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-184" tvg-name="Fighters" tvg-logo="https://itcnbd.live/images/1770380942670.png" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-185" tvg-name="TOFFEE Sports VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_975410001725875598.png" group-title="Sports",TOFFEE Sports VIP
+https://server.itcnbd.live/stream/sports_highlights.m3u8
+#EXTINF:-1 tvg-id="itcn-186" tvg-name="TOFFEE Movies VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_724353001725875591.png" group-title="Sports",TOFFEE Movies VIP
+https://server.itcnbd.live/stream/toffee_movie.m3u8
+#EXTINF:-1 tvg-id="itcn-187" tvg-name="TOFFEE Dramas VIP" tvg-logo="https://itcnbd.live/images/mobile_logo_764950001725875605.png" group-title="Sports",TOFFEE Dramas VIP
+https://server.itcnbd.live/stream/toffee_drama.m3u8
+#EXTINF:-1 tvg-id="itcn-188" tvg-name="FAST SPORTS HD" tvg-logo="https://itcnbd.live/images/FAST SPORTS HD1745044750.png" group-title="Sports",FAST SPORTS HD
+https://s2.itcnbd.live/fast-sports-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-189" tvg-name="GOLF SPORTS" tvg-logo="https://itcnbd.live/images/GOLF SPORTS1745043338.png" group-title="Sports",GOLF SPORTS
+https://s2.itcnbd.live/golf-sports/index.m3u8
+#EXTINF:-1 tvg-id="itcn-190" tvg-name="BFL Live 3" tvg-logo="https://itcnbd.live/images/74e6a7bb-f850-4ec5-991f-7a882b04db37.png" group-title="Sports",BFL Live 3
+https://server.itcnbd.live/stream/match-13.m3u8
+#EXTINF:-1 tvg-id="itcn-191" tvg-name="BFL Live 4" tvg-logo="https://itcnbd.live/images/4e83252b-223d-42a6-a56b-8598aa17e2e8.png" group-title="Sports",BFL Live 4
+https://server.itcnbd.live/stream/match-18.m3u8
+#EXTINF:-1 tvg-id="itcn-192" tvg-name="BFL Live 1" tvg-logo="https://itcnbd.live/images/images.jpg" group-title="Sports",BFL Live 1
+https://server.itcnbd.live/stream/match-11.m3u8
+#EXTINF:-1 tvg-id="itcn-193" tvg-name="BFL Live 2" tvg-logo="https://itcnbd.live/images/035a24dd-4d88-4fc2-99a1-275a5bc97bf5.png" group-title="Sports",BFL Live 2
+https://server.itcnbd.live/stream/match-12.m3u8
+#EXTINF:-1 tvg-id="itcn-194" tvg-name="BD vs PK" tvg-logo="https://itcnbd.live/images/b4bee75a-b8a3-4594-b562-6e3910d71625.webp" group-title="Sports",BD vs PK
+https://server.itcnbd.live/stream/bdvsnz26.m3u8
+#EXTINF:-1 tvg-id="itcn-195" tvg-name="Crazy Ex" tvg-logo="https://itcnbd.live/images/1770348753896.png" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-196" tvg-name="Sports Legends" tvg-logo="https://itcnbd.live/images/1770377900139.png" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-197" tvg-name="Sports Range" tvg-logo="https://itcnbd.live/images/1770380601958.png" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-198" tvg-name="Thunder Er" tvg-logo="https://itcnbd.live/images/1770380791303.png" group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+#EXTINF:-1 tvg-id="itcn-199" tvg-name="Euro Sport HD" tvg-logo="https://itcnbd.live/images/mobile_logo_422191001674119624.png" group-title="Sports",Euro Sport HD
+https://server.itcnbd.live/stream/euro_sports_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-200" tvg-name="ICC Test Championship Highlights" tvg-logo="https://itcnbd.live/images/955ae898-8336-4936-8d78-c6b8866e35f7.webp" group-title="Sports",ICC Test Championship Highlights
+https://server.itcnbd.live/stream/icc_wtc_final.m3u8
+#EXTINF:-1 tvg-id="itcn-201" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://itcnbd.live/images/mobile_logo_237244001666780563.png" group-title="Sports",SONY SPORTS TEN 1 HD
+https://server.itcnbd.live/stream/sony_sports_1_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-202" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://itcnbd.live/images/mobile_logo_093449001666780976.png" group-title="Sports",SONY SPORTS TEN 2 HD
+https://server.itcnbd.live/stream/sony_sports_2_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-203" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://itcnbd.live/images/mobile_logo_689539001672145843.png" group-title="Sports",SONY SPORTS TEN 5 HD
+https://server.itcnbd.live/stream/sony_sports_5_hd.m3u8
+#EXTINF:-1 tvg-id="itcn-204" tvg-name="SONY TEN Cricket" tvg-logo="https://itcnbd.live/images/mobile_logo_578686001735197654.png" group-title="Sports",SONY TEN Cricket
+https://server.itcnbd.live/stream/ten_cricket.m3u8
+#EXTINF:-1 tvg-id="itcn-205" tvg-name="EPL channel 1" tvg-logo="https://itcnbd.live/images/08617b27-2af1-4035-bcc3-d054ce42ca4b.webp" group-title="Sports",EPL channel 1
+https://server.itcnbd.live/stream/match-1.m3u8
+#EXTINF:-1 tvg-id="itcn-206" tvg-name="EPL channel 2" tvg-logo="https://itcnbd.live/images/3e9d4d0a-a346-4b39-92b5-13e9238ad240.webp" group-title="Sports",EPL channel 2
+https://server.itcnbd.live/stream/match-2.m3u8
+#EXTINF:-1 tvg-id="itcn-207" tvg-name="EPL channel 3" tvg-logo="https://itcnbd.live/images/d0bb78b5-4690-4c12-9c7b-e785eb8d7336.webp" group-title="Sports",EPL channel 3
+https://server.itcnbd.live/stream/match-3.m3u8
+#EXTINF:-1 tvg-id="itcn-208" tvg-name="EPL channel 4" tvg-logo="https://itcnbd.live/images/f2143475-cf44-441a-b55d-58b2b5569aa5.webp" group-title="Sports",EPL channel 4
+https://server.itcnbd.live/stream/match-4.m3u8
+#EXTINF:-1 tvg-id="itcn-209" tvg-name="EPL channel 5" tvg-logo="https://itcnbd.live/images/images_002.jpg" group-title="Sports",EPL channel 5
+https://server.itcnbd.live/stream/match-5.m3u8
+#EXTINF:-1 tvg-id="itcn-210" tvg-name="EPL channel 6" tvg-logo="https://itcnbd.live/images/c1440521-da52-4cf7-b137-dd38d1de083a.webp" group-title="Sports",EPL channel 6
+https://server.itcnbd.live/stream/match-6.m3u8
+#EXTINF:-1 tvg-id="itcn-211" tvg-name="A SPORTS HD" tvg-logo="https://itcnbd.live/images/A SPORTS HD1745044782.png" group-title="Sports",A SPORTS HD
+https://s2.itcnbd.live/a-sports-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-212" tvg-name="EUROSPORTS HD" tvg-logo="https://itcnbd.live/images/EUROSPORTS HD1745040406.png" group-title="Sports",EUROSPORTS HD
+https://s2.itcnbd.live/eurosports-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-213" tvg-name="PTV SPORTS HD" tvg-logo="https://itcnbd.live/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
+https://s2.itcnbd.live/ptv-sports-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-214" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://itcnbd.live/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
+https://s2.itcnbd.live/sony-sports-1-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-215" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://itcnbd.live/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+https://s2.itcnbd.live/sony-sports-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-216" tvg-name="SONY SPORTS 3" tvg-logo="https://itcnbd.live/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
+https://s2.itcnbd.live/sony-sports-3/index.m3u8
+#EXTINF:-1 tvg-id="itcn-217" tvg-name="SONY SPORTS 4" tvg-logo="https://itcnbd.live/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
+https://s2.itcnbd.live/sony-sports-4/index.m3u8
+#EXTINF:-1 tvg-id="itcn-218" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://itcnbd.live/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
+https://s2.itcnbd.live/sony-sports-5-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-219" tvg-name="SSC SPORTS" tvg-logo="https://itcnbd.live/images/ssc 1 hd.png" group-title="Sports",SSC SPORTS
+https://s2.itcnbd.live/ssc-sports/index.m3u8
+#EXTINF:-1 tvg-id="itcn-220" tvg-name="SSC SPORTS 5 HD" tvg-logo="https://itcnbd.live/images/ssc 5 hd.png" group-title="Sports",SSC SPORTS 5 HD
+https://s2.itcnbd.live/ssc-sports-5-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-221" tvg-name="STAR SELECT 1 HD" tvg-logo="https://itcnbd.live/images/STAR SELECT 1 HD1745038777.png" group-title="Sports",STAR SELECT 1 HD
+https://s2.itcnbd.live/star-select-1-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-222" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://itcnbd.live/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
+https://s2.itcnbd.live/star-sports-1-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-223" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://itcnbd.live/images/STAR SPORTS 2 HD1744991842.png" group-title="Sports",STAR SPORTS 2 HD
+https://s2.itcnbd.live/star-sports-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="itcn-224" tvg-name="STAR SPORTS 3" tvg-logo="https://itcnbd.live/images/STAR SPORTS 31745039893.png" group-title="Sports",STAR SPORTS 3
+https://s2.itcnbd.live/star-sports-3/index.m3u8
+#EXTINF:-1 tvg-id="itcn-225" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://itcnbd.live/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="Sports",STAR SPORTS SELECT 2 HD
+https://s2.itcnbd.live/star-sports-select-2-hd/index.m3u8
